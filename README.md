@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anees Ur Rehman</h1>
-<h3 align="center">A passionate frontend and WordPress developer from Pakistan</h3>
+<h3 align="center">A passionate Front-End and WordPress developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **React JS**
 
