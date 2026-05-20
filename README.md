@@ -40,7 +40,7 @@ const anees = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,redux,tailwind,html,css,wordpress,figma,illustrator,photoshop,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,redux,tailwind,html,css,git&perline=6" />
 </p>
 
 ### Core Frontend
