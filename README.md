@@ -13,7 +13,6 @@
 
 Next.js developer focused on building performant, user-first web applications. I work across the full frontend stack — React, Redux, Tailwind CSS — and bring a design sensibility from my background with Figma and Adobe tools. Currently deepening my expertise in Next.js App Router, server components, and full-stack patterns.
 
-- 🔭 Currently building **[The Wild Oasis](https://the-wild-oasis-for-employee.vercel.app/dashboard)** — a hotel management dashboard with real-time data, authentication, and dynamic UI built in React
 - 🌱 Actively learning **Next.js App Router, Server Components & full-stack patterns**
 - 💼 All my projects are at **[rehma-n.netlify.app](https://rehma-n.netlify.app/)**
 - 📫 Reach me at **uanees678@gmail.com**
