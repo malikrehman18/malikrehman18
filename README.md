@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anees Ur Rehman</h1>
-<h3 align="center">A passionate Next JS and WordPress developer developer from Pakistan</h3>
+<h3 align="center">Next.js developer focused on building performant, user-first web 
+applications. I work across the full frontend stack — React, Redux, 
+Tailwind — and bring design sensibility from my background in Figma 
+and Adobe tools. Currently deepening expertise in Next.js App Router, 
+server components, and full-stack patterns.
+
+📬 uanees678@gmail.com | Open to freelance & full-time opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikrehman18&label=Profile%20views&color=0e75b6&style=flat" alt="malikrehman18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikrehman18" alt="malikrehman18" /></a> </p>
 
-- 🔭 I’m currently working on [The Wild Oasis](https://the-wild-oasis-for-employee.vercel.app/dashboard)
+
 
 - 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://rehma-n.netlify.app/](https://rehma-n.netlify.app/)
 
-- 📫 How to reach me **uanees678@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
