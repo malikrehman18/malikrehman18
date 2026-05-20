@@ -30,6 +30,7 @@ const anees = {
 };
 ```
 
+- 🔭 Currently building **[The Wild Oasis](https://the-wild-oasis-for-employee.vercel.app/dashboard)** — a full-featured hotel management dashboard with auth, real-time data & dynamic UI
 - 🌱 Deepening expertise in **Next.js App Router & Server Components**
 - 💼 Portfolio → **[rehma-n.netlify.app](https://rehma-n.netlify.app/)**
 - 💬 Open to **freelance projects** and **full-time frontend roles**
@@ -40,7 +41,7 @@ const anees = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,redux,tailwind,html,css,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,redux,tailwind,html,css,wordpress,git&perline=9" />
 </p>
 
 ### Core Frontend
@@ -54,6 +55,9 @@ const anees = {
 
 ### CMS & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -105,7 +109,11 @@ const anees = {
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-    <a href="https://rehma-n.netlify.app/" target="_blank">
+  <a href="https://twitter.com/aneesur52117214" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://rehma-n.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
